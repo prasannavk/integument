@@ -1,2 +1,2 @@
 # integument
-integument is basically the skin on a snake. The skin exhibits ornate patterns. In this repo, we capture patterns of python - the language. These patterns combine to produce an beautiful and functional pieces of code just like snake skin.
+integument is the skin of an animal. For python snakes, their skin can exhibit ornate patterns. In this repo, we capture patterns of python - the language. These patterns combine to produce beautiful and functional pieces of code just like the snake skin.
